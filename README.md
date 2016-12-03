@@ -4,6 +4,10 @@ python을 활용한 베이지안 통계 스터디
 
 telegram 초대는 언제든지 문의주세영~
 
+-----------------------
+
+[이론 정리](./lists/README.md)
+
 ## 개발환경 동기화
 
 1. python version: python2.7.12 and python3.4.2
